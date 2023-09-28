@@ -1,0 +1,12 @@
+POST http://localhost:3000/register/
+
+{
+    "username":"Aayesha",
+    "bankAccounts":"Andhra,sbh",
+    "bankName":"SBH",
+    "branch":"buttaipet"
+}
+
+###
+
+GET http://localhost:3000/getDetails/
